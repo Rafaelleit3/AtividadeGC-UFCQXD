@@ -10,3 +10,10 @@ main{
     font-size: 24px;
 }
 
+footer{
+    padding: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
